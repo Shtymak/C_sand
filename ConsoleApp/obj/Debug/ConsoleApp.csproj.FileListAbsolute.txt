@@ -1,0 +1,6 @@
+/home/volodymyr/RiderProjects/C_sand/ConsoleApp/bin/Debug/ConsoleApp.exe
+/home/volodymyr/RiderProjects/C_sand/ConsoleApp/bin/Debug/ConsoleApp.pdb
+/home/volodymyr/RiderProjects/C_sand/ConsoleApp/obj/Debug/ConsoleApp.csprojAssemblyReference.cache
+/home/volodymyr/RiderProjects/C_sand/ConsoleApp/obj/Debug/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/volodymyr/RiderProjects/C_sand/ConsoleApp/obj/Debug/ConsoleApp.exe
+/home/volodymyr/RiderProjects/C_sand/ConsoleApp/obj/Debug/ConsoleApp.pdb
